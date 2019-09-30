@@ -1,0 +1,41 @@
+_repo: Robinson-Crusoe-s-Reisen-wunderbare-Abernteuer-und-Erlebnisse_60344
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Nicholson, F. H.
+    gutenberg_agent_id: '50908'
+    url: http://www.gutenberg.org/2009/agents/50908
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Moreton, Andrew
+    - John, Gabriel
+    - Defoë, Daniel
+    - Defo, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/ebooks/author/26500
+description: ''
+gutenberg_issued: '2019-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60344'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Atlantic Ocean -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Shipwreck survival -- Fiction'
+- GITenberg
+title: Robinson Crusoe's Reisen, wunderbare Abernteuer und Erlebnisse
+url: http://www.gutenberg.org/ebooks/60344
